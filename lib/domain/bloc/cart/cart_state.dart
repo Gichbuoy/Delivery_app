@@ -26,4 +26,3 @@ class CartState {
       quantityCart: quantityCart ?? this.quantityCart
     );
 }
-
