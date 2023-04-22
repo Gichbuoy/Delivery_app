@@ -1,9 +1,9 @@
-Flutter Deliver app
+Flutter Deliver app (Bikeman)
 
 (May present errors..[.in Development])
 
 
-Requirements
+### Requirements
 
 ### Change Ip
   * Lib/Services/url.dart
@@ -17,3 +17,11 @@ Requirements
 #### MAPBOX API KEY
  * Go to [Mapbox](https://www.mapbox.com/)
  * Page API KEY -> lib/Controller/MapBoxController
+
+#### PUSH NOTIFICATIONS - Cloud Messaging | Firebase
+ * Page Server Key => lib/Services/PushNotification.dart
+ * Page google-services.json => Android/App/
+ * Go Firebase
+ * Project settings
+ * Cloud Messaging
+ * Server key
