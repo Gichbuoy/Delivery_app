@@ -25,3 +25,13 @@ Flutter Deliver app (Bikeman)
  * Project settings
  * Cloud Messaging
  * Server key
+
+### Flutter
+ * Flutter Bloc 
+ * Socket io client
+ * Google Map
+ * MapBox
+ * Geolocator
+ * Push notifications
+
+ 
