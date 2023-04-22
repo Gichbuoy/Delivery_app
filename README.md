@@ -28,10 +28,13 @@ Flutter Deliver app (Bikeman)
 
 ### Flutter
  * Flutter Bloc 
- * Socket io client
+ * Socket to client
  * Google Map
  * MapBox
  * Geolocator
  * Push notifications
+
+### Node js
+ * (to include backend code for this project)
 
  
