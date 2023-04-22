@@ -13,3 +13,7 @@ Requirements
   * To enable Google Maps for Android and iOS.
   * Page API KEY -> lib/Services/GoogleServices
   * Page API KEY -> Android/app/src/main/AndroidManifest.xml
+
+#### MAPBOX API KEY
+ * Go to [Mapbox](https://www.mapbox.com/)
+ * Page API KEY -> lib/Controller/MapBoxController
