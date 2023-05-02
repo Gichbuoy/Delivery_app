@@ -1,3 +1,3 @@
-library restaurant.paytype; // change the library 
+library bikeman.paytype; // change the library
 
-final List<String> payType = [ 'PAID OUT', 'DISPATCHED', 'ON WAY', 'DELIVERED' ];
+final List<String> payType = ['PAID OUT', 'DISPATCHED', 'ON WAY', 'DELIVERED'];
