@@ -2,9 +2,9 @@ import 'dart:async';
 import 'package:meta/meta.dart';
 import 'package:bloc/bloc.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:restaurant/domain/models/response/response_login.dart';
-import 'package:restaurant/domain/services/push_notification.dart';
-import 'package:restaurant/domain/services/user_services.dart';
+import 'package:bikeman/domain/models/response/response_login.dart';
+import 'package:bikeman/domain/services/push_notification.dart';
+import 'package:bikeman/domain/services/user_services.dart';
 
 part 'user_event.dart';
 part 'user_state.dart';
