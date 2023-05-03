@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restaurant/data/env/environment.dart';
-import 'package:restaurant/domain/bloc/blocs.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/data/env/environment.dart';
+import 'package:bikeman/domain/bloc/blocs.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 
 void modalActiveOrInactiveProduct(BuildContext context, int status, String nameProduct, int idProduct, String picture){
