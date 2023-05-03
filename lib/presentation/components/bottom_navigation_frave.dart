@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/screens/client/cart_client_screen.dart';
-import 'package:restaurant/presentation/screens/client/client_home_screen.dart';
-import 'package:restaurant/presentation/screens/client/profile_client_screen.dart';
-import 'package:restaurant/presentation/screens/client/search_client_screen.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/screens/client/cart_client_screen.dart';
+import 'package:bikeman/presentation/screens/client/client_home_screen.dart';
+import 'package:bikeman/presentation/screens/client/profile_client_screen.dart';
+import 'package:bikeman/presentation/screens/client/search_client_screen.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 class BottomNavigationFrave extends StatelessWidget {
 
