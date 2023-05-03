@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restaurant/data/env/environment.dart';
-import 'package:restaurant/domain/bloc/blocs.dart';
-import 'package:restaurant/domain/models/response/products_top_home_response.dart';
-import 'package:restaurant/domain/services/products_services.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/helpers/helpers.dart';
-import 'package:restaurant/presentation/screens/admin/products/add_new_product_screen.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/data/env/environment.dart';
+import 'package:bikeman/domain/bloc/blocs.dart';
+import 'package:bikeman/domain/models/response/products_top_home_response.dart';
+import 'package:bikeman/domain/services/products_services.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/helpers/helpers.dart';
+import 'package:bikeman/presentation/screens/admin/products/add_new_product_screen.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 class ListProductsScreen extends StatefulWidget {
 
