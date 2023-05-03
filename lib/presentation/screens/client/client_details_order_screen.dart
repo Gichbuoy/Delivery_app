@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:restaurant/data/env/environment.dart';
-import 'package:restaurant/domain/models/response/order_details_response.dart';
-import 'package:restaurant/domain/models/response/orders_client_response.dart';
-import 'package:restaurant/domain/services/orders_services.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/helpers/date_custom.dart';
-import 'package:restaurant/presentation/screens/client/client_map_scrren.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/data/env/environment.dart';
+import 'package:bikeman/domain/models/response/order_details_response.dart';
+import 'package:bikeman/domain/models/response/orders_client_response.dart';
+import 'package:bikeman/domain/services/orders_services.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/helpers/date_custom.dart';
+import 'package:bikeman/presentation/screens/client/client_map_scrren.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 
 class ClientDetailsOrderScreen extends StatelessWidget {

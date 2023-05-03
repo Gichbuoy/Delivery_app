@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:restaurant/domain/bloc/blocs.dart';
-import 'package:restaurant/domain/models/response/addresses_response.dart';
-import 'package:restaurant/domain/services/services.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/domain/bloc/blocs.dart';
+import 'package:bikeman/domain/models/response/addresses_response.dart';
+import 'package:bikeman/domain/services/services.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 
 class SelectAddressScreen extends StatelessWidget {

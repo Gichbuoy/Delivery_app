@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restaurant/data/env/environment.dart';
-import 'package:restaurant/domain/bloc/blocs.dart';
-import 'package:restaurant/domain/models/response/category_all_response.dart';
-import 'package:restaurant/domain/models/response/products_top_home_response.dart';
-import 'package:restaurant/domain/services/services.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/helpers/date_custom.dart';
-import 'package:restaurant/presentation/screens/client/cart_client_screen.dart';
-import 'package:restaurant/presentation/screens/client/details_product_screen.dart';
-import 'package:restaurant/presentation/screens/client/search_for_category_screen.dart';
-import 'package:restaurant/presentation/screens/profile/list_addresses_screen.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/data/env/environment.dart';
+import 'package:bikeman/domain/bloc/blocs.dart';
+import 'package:bikeman/domain/models/response/category_all_response.dart';
+import 'package:bikeman/domain/models/response/products_top_home_response.dart';
+import 'package:bikeman/domain/services/services.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/helpers/date_custom.dart';
+import 'package:bikeman/presentation/screens/client/cart_client_screen.dart';
+import 'package:bikeman/presentation/screens/client/details_product_screen.dart';
+import 'package:bikeman/presentation/screens/client/search_for_category_screen.dart';
+import 'package:bikeman/presentation/screens/profile/list_addresses_screen.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 class ClientHomeScreen extends StatelessWidget {
 

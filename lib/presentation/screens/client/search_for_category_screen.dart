@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:restaurant/domain/models/response/products_top_home_response.dart';
-import 'package:restaurant/domain/services/services.dart';
-import 'package:restaurant/presentation/components/StaggeredDualView.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/screens/client/details_product_screen.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/domain/models/response/products_top_home_response.dart';
+import 'package:bikeman/domain/services/services.dart';
+import 'package:bikeman/presentation/components/StaggeredDualView.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/screens/client/details_product_screen.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 class SearchForCategoryScreen extends StatelessWidget {
 
