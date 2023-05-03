@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restaurant/domain/bloc/blocs.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/helpers/helpers.dart';
-import 'package:restaurant/presentation/screens/admin/category/categories_admin_screen.dart';
-import 'package:restaurant/presentation/screens/admin/delivery/list_deliverys_screen.dart';
-import 'package:restaurant/presentation/screens/admin/orders_admin/orders_admin_screen.dart';
-import 'package:restaurant/presentation/screens/admin/products/list_products_screen.dart';
-import 'package:restaurant/presentation/screens/home/select_role_screen.dart';
-import 'package:restaurant/presentation/screens/intro/checking_login_screen.dart';
-import 'package:restaurant/presentation/screens/profile/change_password_screen.dart';
-import 'package:restaurant/presentation/screens/profile/edit_Prodile_screen.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/domain/bloc/blocs.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/helpers/helpers.dart';
+import 'package:bikeman/presentation/screens/admin/category/categories_admin_screen.dart';
+import 'package:bikeman/presentation/screens/admin/delivery/list_deliverys_screen.dart';
+import 'package:bikeman/presentation/screens/admin/orders_admin/orders_admin_screen.dart';
+import 'package:bikeman/presentation/screens/admin/products/list_products_screen.dart';
+import 'package:bikeman/presentation/screens/home/select_role_screen.dart';
+import 'package:bikeman/presentation/screens/intro/checking_login_screen.dart';
+import 'package:bikeman/presentation/screens/profile/change_password_screen.dart';
+import 'package:bikeman/presentation/screens/profile/edit_Prodile_screen.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 class AdminHomeScreen extends StatelessWidget {
 
