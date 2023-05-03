@@ -1,12 +1,12 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:restaurant/data/env/environment.dart'; //edit
-import 'package:restaurant/data/local_secure/secure_storage.dart';
-import 'package:restaurant/domain/models/product_cart.dart';
-import 'package:restaurant/domain/models/response/order_details_response.dart';
-import 'package:restaurant/domain/models/response/orders_by_status_response.dart';
-import 'package:restaurant/domain/models/response/orders_client_response.dart';
-import 'package:restaurant/domain/models/response/response_default.dart';
+import 'package:bikeman/data/env/environment.dart'; //edit
+import 'package:bikeman/data/local_secure/secure_storage.dart';
+import 'package:bikeman/domain/models/product_cart.dart';
+import 'package:bikeman/domain/models/response/order_details_response.dart';
+import 'package:bikeman/domain/models/response/orders_by_status_response.dart';
+import 'package:bikeman/domain/models/response/orders_client_response.dart';
+import 'package:bikeman/domain/models/response/response_default.dart';
 
 
 class OrdersServices {

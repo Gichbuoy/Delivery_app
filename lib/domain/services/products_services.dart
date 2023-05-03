@@ -2,12 +2,12 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:image_picker/image_picker.dart';
-import 'package:restaurant/data/env/environment.dart'; //edit
-import 'package:restaurant/data/local_secure/secure_storage.dart';
-import 'package:restaurant/domain/models/response/images_products_response.dart';
-import 'package:restaurant/domain/models/response/products_top_home_response.dart';
-import 'package:restaurant/domain/models/response/response_default.dart';
-import 'package:restaurant/presentation/helpers/de_bouncer.dart';
+import 'package:bikeman/data/env/environment.dart'; //edit
+import 'package:bikeman/data/local_secure/secure_storage.dart';
+import 'package:bikeman/domain/models/response/images_products_response.dart';
+import 'package:bikeman/domain/models/response/products_top_home_response.dart';
+import 'package:bikeman/domain/models/response/response_default.dart';
+import 'package:bikeman/presentation/helpers/de_bouncer.dart';
 
 
 class ProductsServices {

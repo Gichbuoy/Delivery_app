@@ -1,13 +1,13 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:restaurant/data/env/environment.dart'; //edit
-import 'package:restaurant/data/local_secure/secure_storage.dart';
-import 'package:restaurant/domain/models/response/address_one_response.dart';
-import 'package:restaurant/domain/models/response/addresses_response.dart';
-import 'package:restaurant/domain/models/response/response_default.dart';
-import 'package:restaurant/domain/models/response/response_login.dart';
-import 'package:restaurant/domain/models/response/user_updated_response.dart';
-import 'package:restaurant/main.dart';
+import 'package:bikeman/data/env/environment.dart'; //edit....done
+import 'package:bikeman/data/local_secure/secure_storage.dart';
+import 'package:bikeman/domain/models/response/address_one_response.dart';
+import 'package:bikeman/domain/models/response/addresses_response.dart';
+import 'package:bikeman/domain/models/response/response_default.dart';
+import 'package:bikeman/domain/models/response/response_login.dart';
+import 'package:bikeman/domain/models/response/user_updated_response.dart';
+import 'package:bikeman/main.dart';
 
 class UserServices {
 
