@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restaurant/data/env/environment.dart';
-import 'package:restaurant/domain/bloc/blocs.dart';
-import 'package:restaurant/domain/models/response/order_details_response.dart';
-import 'package:restaurant/domain/models/response/orders_by_status_response.dart';
-import 'package:restaurant/domain/services/orders_services.dart';
-import 'package:restaurant/presentation/components/components.dart';
-import 'package:restaurant/presentation/helpers/date_custom.dart';
-import 'package:restaurant/presentation/helpers/helpers.dart';
-import 'package:restaurant/presentation/screens/admin/orders_admin/orders_admin_screen.dart';
-import 'package:restaurant/presentation/themes/colors_frave.dart';
+import 'package:bikeman/data/env/environment.dart';
+import 'package:bikeman/domain/bloc/blocs.dart';
+import 'package:bikeman/domain/models/response/order_details_response.dart';
+import 'package:bikeman/domain/models/response/orders_by_status_response.dart';
+import 'package:bikeman/domain/services/orders_services.dart';
+import 'package:bikeman/presentation/components/components.dart';
+import 'package:bikeman/presentation/helpers/date_custom.dart';
+import 'package:bikeman/presentation/helpers/helpers.dart';
+import 'package:bikeman/presentation/screens/admin/orders_admin/orders_admin_screen.dart';
+import 'package:bikeman/presentation/themes/colors_frave.dart';
 
 
 class OrderDetailsScreen extends StatelessWidget {
