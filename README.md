@@ -1,6 +1,6 @@
 Flutter Package Deliver app 
 
-(May present errors..[.in Development])
+(May present errors..[.in process of Development])
 
 
 ### Requirements
