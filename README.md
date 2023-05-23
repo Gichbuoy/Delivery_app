@@ -1,4 +1,4 @@
-Flutter Package Deliver app 
+Flutter Package Deliver application
 
 (May present errors..[.in process of Development])
 
